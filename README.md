@@ -66,7 +66,7 @@ Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología, la visi
 
 ## 📫 Contacto
 
-- 📧 Email: carlosavila.dev@gmail.com *(actualízalo si tienes otro)*
+- 📧 Email: carlosahuni13@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/Cach13)
 - 🌐 Portafolio personal (próximamente)
 
