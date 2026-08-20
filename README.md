@@ -118,41 +118,7 @@ Soy Carlos Ávila, ingeniero en sistemas y fundador de **[Geck Codex](https://ge
 
 </div>
 
-<details>
-<summary><b>🐍 ¿Cómo activo la animación de la serpiente comiéndose mis contribuciones?</b></summary>
-<br/>
 
-1. En tu repo especial `Cach13/Cach13`, crea `.github/workflows/snake.yml` con este contenido:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Cach13
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Haz push, espera a que corra el Action una vez, y la imagen de arriba se llenará sola. Si no la activas, esa línea simplemente no se ve — no rompe nada.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:F1E7D0&height=4&width=100%" width="100%"/>
 
