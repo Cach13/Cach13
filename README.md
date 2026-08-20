@@ -1,50 +1,64 @@
 # 👋 ¡Hola! Soy Carlos Ávila (Cach13)
 
-Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología, la visión computacional y el desarrollo de soluciones que realmente ayuden a las personas. Me especializo en desarrollo móvil, automatización y proyectos de IA aplicada, especialmente enfocados en el bienestar y la seguridad laboral.
+Ingeniero en Sistemas apasionado por la tecnología, la visión computacional y el desarrollo de soluciones que realmente ayuden a las personas. He trabajado en desarrollo web, móvil, automatización y sistemas de negocio para clientes de sectores muy distintos: inmobiliarias, gobierno, alimentos, retail y más. La mayoría de mis proyectos viven en una organización privada, pero aquí les dejo un resumen de en qué ando metido.
 
 ---
 
-## 🚀 Tecnologías que manejo
+## 🚀 Stack y tecnologías
 
-### 💻 Lenguajes y herramientas que uso a diario:
+### 🌐 Desarrollo Web
+Landings modernas, menús digitales, plantillas para inmobiliarias y sitios corporativos.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 📱 Desarrollo Móvil
+Flutter es mi lenguaje de cabecera, pero me muevo bien en nativo e híbrido según lo que pida el proyecto.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🤖 Automatización e Integraciones
+Bots y flujos automatizados para negocios, conectando canales y procesos.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram%20API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Meta](https://img.shields.io/badge/-Meta%20API-0866FF?style=flat&logo=meta&logoColor=white)
+
+### 🏪 Sistemas de negocio
+Puntos de venta de escritorio y móvil, programas de fidelización y gestión operativa.
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### 🧰 Herramientas y entornos:
-
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### 🧪 Aprendiendo ahora:
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### ☁️ DevOps e infraestructura
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 Proyectos en desarrollo
+## 💼 En qué he estado trabajando
 
-### 📱 Evaluador de Postura en Tiempo Real - App Android
-> Aplicación móvil que detecta la postura del usuario en tiempo real usando la cámara del dispositivo y brinda retroalimentación inmediata para prevenir lesiones musculoesqueléticas.
+- 🖥️ **Landings y sitios web** para inmobiliarias, empresas de alimentos, gobierno y negocios internacionales (incluyendo un sitio para promoción de productos de una empresa china).
+- 🍽️ **Menús digitales** y plantillas web listas para distintos rubros.
+- 🏪 **Puntos de venta** de escritorio (C#) y móviles, incluyendo sistemas de puntos y fidelización de clientes.
+- 🐄 **App de administración de rancho**: gestión centralizada de operaciones agropecuarias desde el celular.
+- 🤖 **Automatizaciones con Python y n8n**, integradas con Telegram y Meta (WhatsApp/Messenger) para atención al cliente y procesos de negocio.
+- 📱 **Apps móviles multiplataforma** con Flutter, además de desarrollo nativo en Kotlin y Swift cuando el proyecto lo requiere.
+- 🧍 **Evaluador de postura en tiempo real** — detección de postura vía cámara con ML Kit / TensorFlow Lite para prevenir lesiones musculoesqueléticas.
+- 🎥 **Monitoreo inteligente con CCTV** — visión computacional para analizar postura, productividad y detección de accidentes en entornos industriales.
 
-🧰 **Tecnologías:** Java · Android Studio · ML Kit · TensorFlow Lite
-
----
-
-### 🎥 Monitoreo Inteligente de Trabajadores con CCTV
-> Sistema basado en visión computacional para analizar postura, productividad, tiempo de ocio y detectar accidentes mediante cámaras de circuito cerrado. Ideal para industrias que priorizan la seguridad y eficiencia.
-
-🧰 **Tecnologías:** Python · OpenCV · NumPy · SQLite
+> La mayoría de estos proyectos viven en repositorios privados de mi organización, así que si te interesa alguno en particular, ¡escríbeme y platicamos!
 
 ---
 
@@ -52,8 +66,6 @@ Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología, la visi
 
 ![Cach13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cach13&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cach13&layout=compact&theme=radical)
-
----
 
 ## 📊 Actividad reciente
 
@@ -72,4 +84,4 @@ Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología, la visi
 
 ---
 
-🎯 *Estoy abierto a colaborar en proyectos relacionados con visión artificial, automatización, desarrollo móvil o web. ¡Contáctame si te interesa trabajar conmigo!*
+🎯 *Abierto a colaborar en proyectos de visión artificial, automatización, desarrollo móvil o web, sistemas de punto de venta e infraestructura en la nube. ¡Contáctame si te interesa trabajar conmigo!*
